@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/2409-count-days-spent-together) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
