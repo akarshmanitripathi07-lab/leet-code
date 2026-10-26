@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/0009-palindrome-number) |
 | [2409-count-days-spent-together](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
