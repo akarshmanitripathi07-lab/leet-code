@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/0013-roman-to-integer) |
 | [2409-count-days-spent-together](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/0013-roman-to-integer) |
 | [2409-count-days-spent-together](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
@@ -20,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/akarshmanitripathi07-lab/Akarsh/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
